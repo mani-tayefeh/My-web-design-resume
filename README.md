@@ -13,7 +13,6 @@ Hello! I am [Mani Tayefeh], born in [17 July 2006]. I created this repository to
 - [License](#license)
 
 ## Introduction
-
 I was a programming student at Tehran Technical Complex and studied under Professor Pourafzal. This repository includes files and projects I learned and completed during these courses.
 
 ## Education and Skills
@@ -21,10 +20,11 @@ I was a programming student at Tehran Technical Complex and studied under Profes
 - **Tehran Technical Complex**: Programming courses under Professor Pourafzal
 - **Skills**: Programming, Web Development, Databases, and more
 
+
 ## Usage
 
 To view and use the files and projects in this repository:
 
 ```sh
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/mani-tayefeh/My-website-design-resume.git
 cd your-repository-name
