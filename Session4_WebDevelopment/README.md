@@ -90,17 +90,3 @@ To get a local copy up and running, follow these simple steps:
 3. Open the `Main.html` file in your web browser to view the webpage:
     - Double-click the `Main.html` file.
     - Alternatively, right-click the file and select "Open with" and choose your preferred web browser.
-
-## Contribution
-
-If you would like to contribute to this project, you can follow these steps:
-
-1. Fork the repository
-2. Create a new branch (Feature Branch)
-3. Commit your changes
-4. Push your branch
-5. Submit a pull request
-
-## License
-
-This project is licensed under the [License Type].
