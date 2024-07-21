@@ -12,10 +12,17 @@ This repository contains files and resources for the "Session4_WebDev" project. 
 
 ## Project Overview
 
-![Description](img/overview-main.png)
-![Description](img/overview-team.png)
-![Description](img/overview-contact.png)
+Main Page
 
+![Description](img/overview-main.png)
+
+Team Page
+
+![Description](img/overview-team.png)
+
+Contact Page
+
+![Description](img/overview-contact.png)
 
 ## Folder Structure
 
