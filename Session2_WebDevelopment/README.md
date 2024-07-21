@@ -8,4 +8,5 @@ This repository contains the files and resources for my web project. Below you'l
 
 ## Project Overview
 
-![Uploading overview.png…]()
+![Uploading ![image](https://github.com/user-attachments/assets/e1b0dafe-d246-4ddd-bb15-6af52ac90cd5)
+…]()
