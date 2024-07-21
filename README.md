@@ -9,8 +9,6 @@ Hello! I am [Mani Tayefeh], born in [17 July 2006]. I created this repository to
 - [Introduction](#introduction)
 - [Education and Skills](#education-and-skills)
 - [Usage](#usage)
-- [Contribution](#contribution)
-- [License](#license)
 
 ## Introduction
 I was a programming student at Tehran Technical Complex and studied under Professor Pourafzal. This repository includes files and projects I learned and completed during these courses.
