@@ -26,5 +26,5 @@ I was a programming student at Tehran Technical Complex and studied under Profes
 To view and use the files and projects in this repository:
 
 ```sh
-git clone https://github.com/mani-tayefeh/My-website-design-resume.git
-cd your-repository-name
+git clone https://github.com/mani-tayefeh/My-web-design-resume.git
+cd My-web-design-resume
