@@ -8,4 +8,4 @@ This repository contains the files and resources for my web project. Below you'l
 
 ## Project Overview
 
-![Description](img/overview.png)
+
