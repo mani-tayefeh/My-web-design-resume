@@ -20,3 +20,4 @@ This project is a simple web page with a home section that includes a navigation
 
 The project directory structure is as follows:
 
+![Uploading pop-bg.jpg…]()
