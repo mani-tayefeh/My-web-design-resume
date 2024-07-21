@@ -34,11 +34,11 @@ This folder contains images used in the project:
 
 ### all.min.css
 
-This file contains minified CSS styles for the project.
+This file contains minified CSS styles for the project from Bootstrap.
 
 ### all.min.js
 
-This file contains minified JavaScript code for the project.
+This file contains minified JavaScript code for the project from Bootstrap.
 
 ### index.html
 
